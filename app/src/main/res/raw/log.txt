@@ -1,0 +1,9 @@
+Edit this file to record your use of outside resources in doing this assignment.
+Date: 3 September 2017
+Problem: Needed to remember how to generate random numbers in java.
+Resourced used: googled and used stackoverflow.
+solution: used random() class to generate random number.
+
+Problem: app wouldnt run because of some error with the keystore something.
+Resource Used: I googled it and then changed ownership of android file after stack overflow told me to do so and then
+I was able to run the app.
